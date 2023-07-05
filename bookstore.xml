@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<bookstore>
+
+    <book category="Shanatan Dharma">
+        <title lang="en">Ramayana</title>
+        <author>Valmiki</author>
+        <year>200 B.C.E.</year>
+        <price>331.0</price>
+
+        <title lang="en">Bhagvat Gita</title>
+        <author>Vyasji</author>
+        <year>3rd century BCE</year>
+        <price>649.99</price>
+
+        <title lang="en">The story of Shiva</title>
+        <author>Namita Gohel</author>
+
+        <year>2012</year>
+        <price>192.99</price>
+    </book>
+
+
+</bookstore>
